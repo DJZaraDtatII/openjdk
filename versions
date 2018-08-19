@@ -1,26 +1,25 @@
 {
     "apk": {
     "version": 1,
-    "url":"https://1.1.1.1/home/gentoo/workspace/build-OpenJDK-Android_for_x86_64_GCC_4_9_Qt_5_11_1_android_x64-Debug/android-build/build/outputs/apk/android-build-debug.apk"
+    "url_arm64":"https://1.1.1.1/android-build/build/outputs/apk/android-build-debug.apk",
+    "url_x64":"https://1.1.1.1/android-build/build/outputs/apk/android-build-debug.apk"
     },
     "jdk_versions" : {
-    "openjdk-jdk-aarch64": {
-        "url": "https://1.1.1.1/home/gentoo/workspace/openjdk-jdk-aarch64.tar.xz"
-    },
-    "openjdk-jdk-arm64": {
-        "url": "https://192.168.43.84/home/gentoo/workspace/openjdk-jdk-arm64.tar.xz"
-    },
-    "openjdk-jdk-x64": {
-        "url": "https://1.1.1.1/home/gentoo/workspace/openjdk-jdk-x86_64.tar.xz"
-    },
     "openjdk-jre-aarch64": {
-        "url": "http://ladjjdldjj.com/dkjfdf4"
+        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jre-aarch64.tar.xz"
     },
     "openjdk-jre-arm64": {
-        "url": "http://ladjjdldjj.com/dkjfdf5"
+        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jre-arm64.tar.xz"
     },
     "openjdk-jre-x64": {
-        "url": "http://ladjjdldjj.com/dkjfdf6"
+        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jre-x86_64.tar.xz"
+    },
+    "openjdk-jdk-arm64": {
+        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jdk-arm64.tar.xz"
+    },
+    "openjdk-jdk-x64": {
+        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jdk-x86_64.tar.xz"
     }
+    
     }
 }
