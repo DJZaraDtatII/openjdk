@@ -1,8 +1,8 @@
 {
     "apk": {
     "version": 1,
-    "url_arm64":"https://1.1.1.1/android-build/build/outputs/apk/android-build-debug.apk",
-    "url_x64":"https://1.1.1.1/android-build/build/outputs/apk/android-build-debug.apk"
+    "url_arm64":"https://github.com/dongfangxunlei/openjdk/releases/download/android/openjdk-installer_arm64.apk",
+    "url_x64":"https://github.com/dongfangxunlei/openjdk/releases/download/android/openjdk-installer-x86_64.apk"
     },
     "jdk_versions" : {
     "openjdk-jre-aarch64": {
