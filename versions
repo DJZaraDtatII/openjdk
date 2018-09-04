@@ -5,11 +5,8 @@
     "url_x64":"https://github.com/dongfangxunlei/openjdk/releases/download/android/openjdk-installer-x86_64.apk"
     },
     "jdk_versions" : {
-    "openjdk-jre-aarch64": {
-        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jre-aarch64.tar.xz"
-    },
     "openjdk-jre-arm64": {
-        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jre-arm64.tar.xz"
+        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jre-aarch64.tar.xz"
     },
     "openjdk-jre-armv7": {
         "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jre-armv7.tar.xz"
@@ -18,9 +15,6 @@
         "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jre-x86_64.tar.xz"
     },
     "openjdk-jdk-arm64": {
-        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jdk-arm64.tar.xz"
-    },
-    "openjdk-jdk-aarch64": {
         "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jdk-aarch64.tar.xz"
     },
     "openjdk-jdk-x64": {
