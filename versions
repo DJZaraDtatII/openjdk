@@ -17,6 +17,9 @@
     "openjdk-jdk-arm64": {
         "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jdk-aarch64.tar.xz"
     },
+    "openjdk-jdk-armv7": {
+        "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jdk-armv7.tar.xz"
+    },
     "openjdk-jdk-x64": {
         "url": "https://github.com/dongfangxunlei/openjdk/releases/download/jdk10-android/openjdk-jdk-x86_64.tar.xz"
     }
